@@ -25,7 +25,7 @@ function App() {
           component={Home}
           options={{
             title: 'Beranda',
-            
+
             headerTintColor: '#000',
             headerTitleStyle: {
               fontSize: 15,
